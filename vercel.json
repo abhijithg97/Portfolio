@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/",
-      "destination": "/Abhijith-G-portfolio.html"
+      "source": "/Abhijith-G-portfolio.html",
+      "destination": "/"
     }
   ]
 }
